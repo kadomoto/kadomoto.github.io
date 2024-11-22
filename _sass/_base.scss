@@ -373,7 +373,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -1129,4 +1129,27 @@ ninja-keys::part(ninja-input) {
 }
 ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
+}
+
+/* Noto Sans JP */
+@font-face {
+  font-family: "NotoSansJP";
+  src: 
+    url("https://fonts.gstatic.com/s/notosansjp/v27/-F6ofjtqLzI2JPCgQBnw7HFQogg.woff2") format("woff2"),
+    url("https://fonts.gstatic.com/s/notosansjp/v27/-F6ofjtqLzI2JPCgQBnw7HFQogg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* for ja */
+:lang(ja) {
+  font-family: "NotoSansJP", sans-serif;
+}
+
+.small-font-jp-title {
+  font-size: 0.6em;
+}
+
+.small-font-jp {
+  font-size: 0.9em;
 }
