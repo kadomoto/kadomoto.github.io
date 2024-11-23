@@ -12,7 +12,7 @@ description: >
 img: assets/img/quantum.png
 importance: 2
 category: computer system research
-giscus_comments: true
+related_publications: true
 ---
 
 <i class="fa-solid fa-person-digging"></i> Under construction.
