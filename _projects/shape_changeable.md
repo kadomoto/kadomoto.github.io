@@ -15,4 +15,4 @@ category: computer system research
 related_publications: true
 ---
 
-Under construction {% cite GotoCHI2024 %}{% cite NagasakiDT2023 %}{% cite KadomotoPervasive2021 %}{% cite KadomotoICCD2020 %}{% cite KadomotoICCD2019 %}.
+<i class="fa-solid fa-person-digging"></i> Under construction {% cite GotoCHI2024 %}{% cite NagasakiDT2023 %}{% cite KadomotoPervasive2021 %}{% cite KadomotoICCD2020 %}{% cite KadomotoICCD2019 %}.
