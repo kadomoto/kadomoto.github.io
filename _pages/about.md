@@ -26,4 +26,4 @@ social: true # includes social icons at the bottom of the page
 
 <p><i class="fa-solid fa-globe"></i> <a href="https://www.mtl.t.u-tokyo.ac.jp/?lang=en">Lab website</a> (<span class="small-font-jp"><a href="https://www.mtl.t.u-tokyo.ac.jp/">研究室ホームページ</a></span>)</p>
 
-<p><a href="blog/2024/lab/index.html"><b><i>To prospective students interested in joining my lab</i></b></a> (<span class="small-font-jp"><a href="blog/2024/labj/index.html"><b><i>門本研究室に興味を持たれた方へ</i></b></a></span>)</p>
+<p><a href="blog/2024/lab/"><b><i>To prospective students interested in joining my lab</i></b></a> (<span class="small-font-jp"><a href="blog/2024/labj/"><b><i>門本研究室に興味を持たれた方へ</i></b></a></span>)</p>
