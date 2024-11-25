@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 <p>With a focus on computer architecture, I am advancing holistic optimizations from the perspectives of various research fields, including integrated circuits, network, software, computational theory, and HCI. I am developing computer systems that deliver new value in terms of interaction and computation.</p>
 
-<p class="small-font-jp">コンピュータアーキテクチャを中心に、集積回路、ネットワーク、ソフトウェア、計算理論、HCIといった多様な研究分野それぞれの観点からの全体最適化を進め、インタラクションや計算の観点で新たな価値を提示する計算機システムをつくっています。</p>
+<p class="small-font-jp">コンピュータアーキテクチャを中心に、集積回路、ネットワーク、ソフトウェア、計算理論、HCIといった多様な研究分野を横断する全体最適化を進め、インタラクションや計算の観点で新たな価値を提示する計算機システムをつくっています。</p>
 
 <p><i class="fa-solid fa-address-card"></i> <a href="https://researchmap.jp/kadomoto?lang=en">Full bio</a> (<span class="small-font-jp"><a href="https://researchmap.jp/kadomoto">詳細な経歴</a></span>)</p>
 
