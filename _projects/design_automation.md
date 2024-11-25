@@ -9,7 +9,7 @@ description: >
   <br>
   <br>
   多様な計算機を容易かつ短期間に設計可能とするため、機械学習を活用した自動設計環境についての研究をおこなっています。
-img: assets/img/da.png
+img: assets/img/automation.png
 importance: 3
 category: computer system research
 related_publications: true
