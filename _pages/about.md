@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>With a focus on computer architecture, I am advancing holistic optimizations from the perspectives of various research fields, including integrated circuits, network, software, computational theory, and HCI. I am developing computer systems that deliver new value in terms of interaction and computation.</p>
+<p>I am developing computer systems that deliver new value in terms of interaction and computation. With a focus on computer architecture, I am advancing holistic optimizations from the perspectives of various research fields, including integrated circuits, network, software, computational theory, and HCI.</p>
 
 <p class="small-font-jp">コンピュータアーキテクチャを中心に、集積回路、ネットワーク、ソフトウェア、計算理論、HCIといった多様な研究分野を横断する全体最適化を進め、インタラクションや計算の観点で新たな価値を提示する計算機システムをつくっています。</p>
 
