@@ -7,12 +7,20 @@ nav: true
 nav_order: 4
 ---
 
-担当する講義の情報については以下をご覧ください。
-
 ##### <i class="fa-solid fa-robot"></i> 情報システム基礎Ⅰ (AI時代の計算機と人間)
+
+<p>講義資料についてはUTOLでご覧ください。</p>
 
 ##### <i class="fas fa-laptop-code"></i> ソフトウェア2
 
+<p>
+講義ページはこちらの予定<br>
+主にSlackチャンネルで情報を配信していますので、履修の方はご参加ください。
+</p>
+
 ##### <i class="fa-solid fa-microchip"></i> VLSIアーキテクチャ
 
-
+<p>
+<a href="https://eeic-vlsi.github.io/2025/">講義ページはこちら</a><br>
+主にSlackチャンネルで情報を配信していますので、履修の方はご参加ください。
+</p>
