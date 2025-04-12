@@ -9,8 +9,10 @@ nav_order: 4
 
 ##### <i class="fa-solid fa-robot"></i> 情報システム基礎Ⅰ (AI時代の計算機と人間)
 
+<p>
 <a href="https://ut-eng-ai.github.io/2025/">講義ページはこちら</a><br>
-<p>講義資料についてはUTOLでご覧ください。</p>
+講義資料についてはUTOLでご覧ください。
+</p>
 
 ##### <i class="fas fa-laptop-code"></i> ソフトウェア2
 
